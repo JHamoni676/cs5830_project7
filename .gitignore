@@ -25,5 +25,3 @@ env/
 *.swo
 .DS_Store
 Thumbs.db
-
-*.csv
